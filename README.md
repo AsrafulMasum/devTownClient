@@ -1,32 +1,22 @@
-# Flarum
+# Phone Mart
 
-## [ Live Website Link](https://forums-6b0ca.web.app)
+## [ Live Website Link](https://devtown-c5563.web.app)
 
-Click here for the live website link: [https://forums-6b0ca.web.app](https://forums-6b0ca.web.app)
+Click here for the live website link: [https://devtown-c5563.web.app](https://devtown-c5563.web.app)
 
-Click here for the server side code link: [https://github.com/AsrafulMasum/Flarum-server](https://github.com/AsrafulMasum/Flarum-server)
+Click here for the server side code link: [https://github.com/AsrafulMasum/devTownServer](https://github.com/AsrafulMasum/devTownServer)
 
-# Some main features of my project are :
+# How to run this project :- 
 
-- Users can signUp & login to the website and logout from website.
+- In navbar there is a navLink named Mobiles, on clicking the navLink you can see all the Mobiles viewed as cards.
 
-- Users can search any category posts by tags & can see the post.
+- In Mobiles page there is a option for filter, after selecting a filter option you will find a search option and on typing any value you will see the results.
 
-- Users can add post, make like or dislike, comments & share post when they are logged in.
+- Every mobile card has information of the phone & also has two button, one is for seeing details and another is to add the mobile at your cart.
 
-- Users can add up to 5 post.
+- After clicking on Details button you will redirect to a new page that contains the mobile's details and also a add to cart button that works as described before.
 
-- Users can be a member via pay a certain of amount & can add as much as post they want.
-
-- Users can see their profile & some recent post they made, at the dashboard.
-
-- Users can delete a post they made & see the comments & report to a comment.
-
-- Admin can make announcement , tags & see the stats of the website.
-
-- Admin can make another user admin.
-
-- Admin can see all the reported comments & can delete the reported comments.
+- In the navbar there is also a navLinks looks like a cart icon which contains all your mobile you add to your cart.
 
 ## 💻 Technologies that I used
 
