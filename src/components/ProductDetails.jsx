@@ -27,7 +27,7 @@ const ProductDetails = () => {
   return (
     <div className="py-24 bg-gray-700">
       <LayoutContainer>
-        <div className="w-1/2 mx-auto overflow-hidden bg-white rounded-lg shadow-md dark:bg-gray-800">
+        <div className="lg:w-1/2 mx-auto overflow-hidden bg-white rounded-lg shadow-md dark:bg-gray-800">
           <img
             className="object-cover w-full"
             src={productData?.image}
