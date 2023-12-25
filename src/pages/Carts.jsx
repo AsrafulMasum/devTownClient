@@ -21,7 +21,7 @@ const Carts = () => {
                   <th>Name</th>
                   <th>Price</th>
                   <th>Email</th>
-                  <th>Action</th>
+                  {/* <th>Action</th> */}
                 </tr>
               </thead>
               {/* table body */}

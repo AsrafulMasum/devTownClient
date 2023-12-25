@@ -16,9 +16,9 @@ const CartRow = ({ idx, cart }) => {
           $ {productData?.price_usd} USD
         </td>
         <td>{cart?.email}</td>
-        <th>
+        {/* <th>
           <button className="btn btn-ghost btn-xs">Delete</button>
-        </th>
+        </th> */}
       </tr>
 
   );
