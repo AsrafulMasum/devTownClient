@@ -4,7 +4,7 @@
 
 Click here for the live website link: [https://devtown-c5563.web.app](https://devtown-c5563.web.app)
 
-Click here for the video preview link: [https://drive.google.com/file/d/1yXeY4Mf9xse_lrrBy9EJep8oA2CMaMIy/view?usp=sharing](https://drive.google.com/file/d/1yXeY4Mf9xse_lrrBy9EJep8oA2CMaMIy/view?usp=sharing)
+Click here for the video preview link: [https://drive.google.com/file/d/1VXlSi-DjDBIzftLbJ2DBUpHMSRnf3GWS/view?usp=sharing](https://drive.google.com/file/d/1VXlSi-DjDBIzftLbJ2DBUpHMSRnf3GWS/view?usp=sharing)
 
 Click here for the server side code link: [https://github.com/AsrafulMasum/devTownServer](https://github.com/AsrafulMasum/devTownServer)
 
